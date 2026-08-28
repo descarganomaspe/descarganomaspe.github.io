@@ -1,1 +1,8 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "pe.descarganomas.obrasst",
+        "sha256_cert_fingerprints": ["03:10:2C:67:6A:96:9D:DE:81:16:58:FE:0A:18:BE:C7:AF:8F:4F:EC:AC:1E:58:60:1D:63:E5:FF:84:6A:89:3B"]
+      }
+    }]
