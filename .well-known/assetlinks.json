@@ -46,5 +46,17 @@
         "B5:3A:C1:75:4B:6C:05:AD:27:E9:E8:17:0E:81:38:A7:F0:95:9B:9E:A5:03:85:34:BB:6E:D5:03:93:A0:6E:80"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pe.descarganomas.solonosotros",
+      "sha256_cert_fingerprints": [
+        "F1:DB:5F:1F:CF:F6:17:21:1B:22:2A:33:DB:A1:EA:F4:71:05:C5:E6:B7:50:A8:AD:F0:E6:34:44:E2:0B:77:2A"
+      ]
+    }
   }
 ]
